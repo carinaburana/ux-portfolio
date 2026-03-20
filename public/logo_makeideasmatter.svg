@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 59.6 59.6">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #191919;
+        font-family: Data70Plain, 'Data 70';
+        font-size: 23px;
+      }
+
+      .st0, .st1 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: #fff8ee;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_1-2">
+    <rect class="st2" width="59.6" height="59.6"/>
+    <g class="st1">
+      <text class="st0" transform="translate(3.2 18.9)"><tspan x="0" y="0">make</tspan></text>
+      <text class="st0" transform="translate(3.2 36.7)"><tspan x="0" y="0">ideas</tspan></text>
+      <text class="st0" transform="translate(3.2 53.5)"><tspan x="0" y="0">matter</tspan></text>
+    </g>
+  </g>
+</svg>
