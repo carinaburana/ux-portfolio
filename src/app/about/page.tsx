@@ -59,9 +59,9 @@ export default function Page() {
         blurStrength={10}
       >
         This is not what you were looking for. Greater meaning comes from
-        searching. How does a man know what to do? Well, there's one thing, I
-        think you should know. It is not love that makes the flowers grow, but a
-        complex electron transfer process known as photosynthesis. This might
+        searching. How does a man know what to do? Well, there&apos;s one thing,
+        I think you should know. It is not love that makes the flowers grow, but
+        a complex electron transfer process known as photosynthesis. This might
         actually be the right place after all. Meaning tends to show up when you
         stop looking so hard. The universe leaves small clues, usually in bad
         handwriting.
